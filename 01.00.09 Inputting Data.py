@@ -1,5 +1,5 @@
-firstname = input("Andrew")  # Input statement without a prompt
+firstname = input("Please enter your first name: ")  # Input statement without a prompt
 print("You Entered: " + firstname)
 
-lastname = input("Nall")  # Input statement with a prompt
+lastname = input("Please enter Your last Name: ")  # Input statement with a prompt
 print("You Entered: " + lastname)
