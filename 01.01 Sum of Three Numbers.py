@@ -6,3 +6,5 @@ secondnumber = int(y)
 thirdnumber = int(z)
 Total = secondnumber * secondnumber
 print(Total)
+#Total = firstnumber + secondnumber + thirdnumber
+#Total = firstnumber + thirdnumber
