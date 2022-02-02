@@ -1,0 +1,9 @@
+k=float(5)
+cone=float(1.61)
+m=float(28)
+s=float(7)
+ctwo=float(60)
+cthree=float(3600)
+totalone=k/cone
+totaltwo=m/ctwo+s/cthree
+print(totalone/totaltwo)
