@@ -1,0 +1,11 @@
+ho=6
+mo=1
+so=30
+co=3600
+ct=60
+total=ho*co+mo*ct+so
+ht=6
+mt=2
+st=10
+totalt=ht*co+mt*ct+st
+print(totalt-total)
